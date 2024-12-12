@@ -7,4 +7,5 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
 - [X] Buscar ferramentas de geolocalização
-- [] Testar e comparar vantagens e desvantagens entre estas tecnologias
+- [ ] Testar e comparar vantagens e desvantagens entre estas tecnologias
+- [ ] Criar um exemplo usando essas tecnologias
